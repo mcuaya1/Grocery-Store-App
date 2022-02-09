@@ -3,6 +3,7 @@ Created by
 	Mario Cuaya 
 	Fernando Resendez 
 	Liliana Darch 
+	
 Projec title: Grocery Store App
 
 Delivery APP was created to get groceries, essentials or more delivered to your door. 
