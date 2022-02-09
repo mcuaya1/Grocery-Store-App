@@ -1,8 +1,7 @@
-# CIS-30A-Project
+CIS-30A-Project
+
 Created by
-	Mario Cuaya 
-	Fernando Resendez 
-	Liliana Darch 
+Mario Cuaya, Fernando Resendez, and Liliana Darch 
 	
 Projec title: Grocery Store App
 
