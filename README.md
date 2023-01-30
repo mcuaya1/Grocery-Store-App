@@ -5,7 +5,4 @@ Mario Cuaya, Fernando Resendez, and Liliana Darch
 	
 Projec title: Grocery Store App
 
-Delivery APP was created to get groceries, essentials or more delivered to your door. 
-With Delivery APP you can create a user account, place an order from a major supermarket and superstores 
-like Walmart, Target, Costco, Best Buy, and Ralphs and shop for items from your phone. 
-Once you are done shopping, it will display the items list, the cost of your order and you can set a delivery date.
+The grocery store delivery program simulates how modern grocery store apps work. The program works by having a user choose from 5 different store locations and having a user input a location to send the deliveries to as well as a specific time and date, and then outputs the information out as a text file.
